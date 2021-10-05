@@ -1,2 +1,3 @@
-# Tasks-from-Stepik-
+# Tasks-from-Stepik
 Формат: Условие, решение.
+
