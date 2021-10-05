@@ -1,3 +1,3 @@
 # Tasks-from-Stepik
 Формат: Условие, решение.
-____
+qwert
