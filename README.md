@@ -1,3 +1,3 @@
 <pre>
-Необходимые условия для понимания задач прописаны в комментариях или в приложенных файлах "PNG". 
+The prerequisites for understanding the tasks are written in the comments or in the attached "PNG" files. 
 </pre>
