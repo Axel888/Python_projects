@@ -1,7 +1,4 @@
 <pre>
-Программы в папке "Pet_Projects", 
-с восклицательными знаками в начале наименования, более сложные и интересные.
-!!! Кредитный калькулятор, "cmd" - моя небольшая проектная работа.
-
-Необходимые условия для понимания задач прописаны в комментариях или в приложенных файлах "PNG". 
+The prerequisites for understanding the tasks are written 
+in the comments or in the attached "PNG" files. 
 </pre>
