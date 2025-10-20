@@ -1,3 +1,0 @@
-<pre>
-Test assignments.
-</pre>
